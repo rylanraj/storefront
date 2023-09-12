@@ -1,5 +1,5 @@
 # storefront
-Project which simulates the database of a store. Assignment for Computer Programming 12, RECEIVED 100% (ALL 8's)
+Project which simulates the database of a store. Assignment for Computer Programming 12, received 100%.
 ASSIGNMENT DETAILS BELOW:
 
 Computer Programming 12 – Digital Storefront Project Challenges 
